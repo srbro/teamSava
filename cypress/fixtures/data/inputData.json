@@ -1,0 +1,11 @@
+{
+    "exercise_api": "https://l761dniu80.execute-api.us-east-2.amazonaws.com/default/exercise_api",
+    "entryKey": "Test_Key_",
+    "entryValue": "Test_Value_",
+    "quota": 11,
+    "errorTextReachedQuota": "you reached your quta",
+    "errorTextLackOfValue": "'value'",
+    "errorTextLackOfKey": "'main_key'",
+    "errorTextExistingKey": "value already exist",
+    "errorTextNotExistingKey": "value dose not exist"
+}

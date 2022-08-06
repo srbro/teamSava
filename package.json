@@ -1,0 +1,23 @@
+{
+  "dependencies": {
+    "cypress": "^10.4.0",
+    "loadsh": "^0.0.4"
+  },
+  "name": "teamsava",
+  "description": "Automation task",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "npx cypress open"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/srbro/teamSava.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/srbro/teamSava/issues"
+  },
+  "homepage": "https://github.com/srbro/teamSava#readme"
+}
